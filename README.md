@@ -2,8 +2,12 @@
 ![Brand](developer.png)
 <h1 align="center">Hi 👋, I'm Rasel Miah</h1>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" />
 
+
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="image.gif">
+</a>
 ### 🛠 &nbsp;Tech Stack
 
 <p align="left"> 
@@ -36,8 +40,7 @@
 <br>
 <p align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=mdraselmiah95&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=mdraselmiah95&theme=dark" width="45%" >
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mdraselmiah95&theme=dark" width="45%" >
 <br>
 <div align="center">
   <p align="center">
