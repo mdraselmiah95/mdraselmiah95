@@ -2,16 +2,29 @@
 ![Brand](developer.png)
 <h1 align="center">Hi 👋, I'm Rasel Miah</h1>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" />
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" /> -->
 
 
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="image.gif">
 </a>
-### 🛠 &nbsp;Tech Stack
 
-<p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> </a> 
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Web Development 𝚊𝚗𝚍 programming**
+- 🔭 I’m currently working on **JavaScript**
+- 👯 I’m looking to collaborate on [Github Readme Stats]
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 Start***
+- 💬 Ask me about anything [here](https://github.com/mdraselmiah95)
+
+<br><br><br>
+
+
+
+
+
+<h2 ></h2>
+<p align="center">**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**</p>  
+<p align="center">
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
@@ -27,39 +40,35 @@
     <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/> </a>
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.icons8.com/ultraviolet/40/000000/adobe-photoshop--v2.png"/> </a>
     <a href="https://code.visualstudio.com/" target="_blank">     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs code" width="40" height="40"/> </a>
+ </P>
  
-</p>
+ <p align="center">
+<a> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdraselmiah95&theme=dark&hide_border=true"/> </a>
+</p> 
+<br>
 
- <br> 
-  
 <details open="">
-<summary  align="center">
+<summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 <br>
+
 <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=mdraselmiah95&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mdraselmiah95&theme=dark" width="45%" >
-<br>
-<div align="center">
-  <p align="center">
   <a href="https://github.com/mdraselmiah95">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mdraselmiah95&layout=compact&langs_count=8&theme=dark"/>
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=mdraselmiah95&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
-</p>
+  <a href="https://github.com/Jmdraselmiah95">
+    <img align="center" height="50%" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdraselmiah95&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  </a>
 </p>
 </details>
 <br>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=mdraselmiah95&theme=react-dark&hide_border=true&area=true)
-
 <br/>
 
-
-
 <p align="center"> ### Show some ❤️ by starring ⭐ some of the repositories!</p>
-<!-- ### Show some ❤️ by starring ⭐ some of the repositories! -->
 
 
 
