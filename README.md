@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **JavaScript**
 - 👯 I’m looking to collaborate on [Github Readme Stats]
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : _𝙸𝚝 Starts_**
-- 💬 Ask me about anything [here](https://github.com/mdraselmiah95)
+- 💬 Ask me about anything [here](https://raselmia.netlify.app/)
 
 <br><br><br>
 
