@@ -6,8 +6,8 @@
   <img align="right" height="250" width="400" alt="GIF" src="image.gif">
 </a>
 
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Web Development 𝚊𝚗𝚍 programming**
-- 🔭 I’m currently working on **JavaScript**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Web Development**
+- 🔭 I’m currently working on **MEAN**
 - 👯 I’m looking to collaborate on [Github Readme Stats]
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : _𝙸𝚝 Starts_**
 - 💬 Ask me about anything [here](https://raselmia.netlify.app/)
