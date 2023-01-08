@@ -64,18 +64,12 @@
 <!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=mdraselmiah95&theme=react-dark&hide_border=true&area=true)
 <br/> -->
 
-<!-- ![snake gif](https://github.com/mdraselmiah95/mdraselmiah95/blob/output/github-contribution-grid-snake.gif) -->
-
-<!-- <p align="center">
-   <img src="https://github.com/mdraselmiah95/mdraselmiah95/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p> -->
+<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://res.cloudinary.com/mdraselmia/image/upload/v1673189638/social/beauty_gsjhry.gif" width="500">
 
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="https://raw.githubusercontent.com/mdraselmiah95/mdraselmiah95/snake/github-contribution-grid-snake-dark.svg" width="100%">
-
-<!-- ## sname
-
-![snake gif](https://github.com/mdraselmiah95/mdraselmiah95/output/github-contribution-grid-snake.gif) -->
 
 <br />
 
