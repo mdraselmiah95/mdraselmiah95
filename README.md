@@ -64,15 +64,15 @@
 <!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=mdraselmiah95&theme=react-dark&hide_border=true&area=true)
 <br/> -->
 
-![snake gif](https://github.com/mdraselmiah95/mdraselmiah95/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/mdraselmiah95/mdraselmiah95/blob/output/github-contribution-grid-snake.gif) -->
 
 <!-- <p align="center">
    <img src="https://github.com/mdraselmiah95/mdraselmiah95/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p> -->
 
-## sname
+<!-- ## sname
 
-![snake gif](https://github.com/mdraselmiah95/mdraselmiah95/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/mdraselmiah95/mdraselmiah95/output/github-contribution-grid-snake.gif) -->
 
 <br />
 
