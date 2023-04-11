@@ -21,8 +21,7 @@
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  
     <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> </a>  
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/dusk/48/000000/react.png"/> </a>  
-    <a href="https://nextjs.org/" target="_blank"> <img src="https://res.cloudinary.com/mdraselmia/image/upload/v1681219669/nextjs_renda1.svg/> </a>
-
+    <a href="https://strapi.io/" target="_blank"> <img src="https://i.ibb.co/R9pCxDG/Strapi.png"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> </a>
 <a href="https://www.w3schools.com/html/html_intro.asp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
