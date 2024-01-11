@@ -124,4 +124,4 @@
 <a href="https://raselmia.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
 </p>
 
-![Profile views](https://gpvc.arturio.dev/mdraselmiah95?v=3)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdraselmiah95&label=Profile%20views&color=0e75b6&style=flat" alt="mdraselmiah95" />
