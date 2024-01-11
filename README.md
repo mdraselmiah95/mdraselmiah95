@@ -124,4 +124,8 @@
 <a href="https://raselmia.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdraselmiah95&label=Profile%20views&color=0e75b6&style=flat" alt="mdraselmiah95" />
+#### Coding Activity time
+
+[![wakatime](https://wakatime.com/badge/user/ccd3c16d-824e-4dba-9e7f-727083bd46a6.svg)](https://wakatime.com/@ccd3c16d-824e-4dba-9e7f-727083bd46a6)
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mdraselmiah95&label=Profile%20views&color=0e75b6&style=flat" alt="mdraselmiah95" />
